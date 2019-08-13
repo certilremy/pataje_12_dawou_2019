@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  con: MyString
+  tent: MyText
+  category: one
+
+two:
+  title: MyString
+  con: MyString
+  tent: MyText
+  category: two
